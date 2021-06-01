@@ -13,6 +13,9 @@ bin-release/
 *.ipa
 *.apk
 
+#sensitive
+*setup.json
+
 #Data
 */data/*
 
