@@ -4,7 +4,6 @@ import requests as req
 import datetime as dt
 
 
-
 def run_fisheries_collector():
     # Output: 2016 - Current species fisheries data
     # Set the columns for the dataframe
