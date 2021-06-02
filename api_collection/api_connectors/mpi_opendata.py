@@ -25,7 +25,7 @@ def collect_mpi_data():
         except:
             print("Failed at request number {}. Exiting process".format(i))
             break
-    d_ = "{}/myfishfinder/data/raw/fisheries/species".format(os.path.dirname(os.getcwd()))
+    d_ = "{}/myfishfinder/data/raw/mpiopendata".format(os.path.dirname(os.getcwd()))
     if not os.path.exists(d_):
         os.makedirs(d_)
     pd.concat(dfs).to_csv("{}/{}-{}-{}.csv".format(d_,dt.datetime.now().year,dt.datetime.now().month,dt.datetime.now().day))
