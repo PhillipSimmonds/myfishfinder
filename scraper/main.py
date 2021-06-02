@@ -1,5 +1,5 @@
 #@author Phillip Simmonds
-from scrapers import fisheries_species
+from scraping_scripts import fisheries_species
 
 def main():
     fisheries_species.run_fisheries_collector()
