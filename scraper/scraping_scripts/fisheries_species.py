@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests as req
 import datetime as dt
+import os
 
 
 def run_fisheries_collector():
@@ -30,4 +31,4 @@ def run_fisheries_collector():
             data.append([d.text.replace("\n","").replace(",","") for d in row.select("td")] + [i])
     df = pd.DataFrame(data=data,columns=columns)
     # Save ouput
-    df.to_csv("data/raw/fisheries/species/{}-{}-{}.csv".format(dt.datetime.now().year,dt.datetime.now().month,dt.datetime.now().day))
+    df.to_csv("{}/myfishfinder/data/raw/fisheries/species/{}-{}-{}.csv".format(os.path.dirname(os.getcwd()),dt.datetime.now().year,dt.datetime.now().month,dt.datetime.now().day))
