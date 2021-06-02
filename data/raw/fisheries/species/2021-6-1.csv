@@ -1,0 +1,511 @@
+,SpeciesCode,Name,ReportedCommCatch_kg,TACC_kg,CustAllow_kg,RecAllow_kg,TargetFishery,BycatchFishery,InQMS,Year
+0,HOK,Hoki,136719050,150010000,20000,20000,Yes,Yes,Yes,2016
+1,JMA,Jack mackerel,40620099,60547234,,,Yes,Yes,Yes,2016
+2,SBW!,Southern blue whitin...,21451334,49288000,0,0,Yes,No,Yes,2016
+3,OYU,Oysters dredge (Fov...,10000801,14950000,,,Yes,No,Yes,2016
+4,EMA,Blue mackerel,8033020,11550000,24000,47000,Yes,Yes,Yes,2016
+5,SWA,Silver warehou,7514934,10380201,1000,2000,No,Yes,Yes,2016
+6,TAR,Tarakihi,5870379,6439173,188000,652000,Yes,Yes,Yes,2016
+7,HAK,Hake,4722117,13211143,0,0,Yes,Yes,Yes,2016
+8,GUR,Gurnard,3953171,5631187,13000,28000,Yes,Yes,Yes,2016
+9,STA,Giant stargazer,3026997,5536400,2000,6000,Yes,Yes,Yes,2016
+10,WAR,Common warehou,2890931,4512358,,,Yes,Yes,Yes,2016
+11,FLA,Flatfish,2792053,5418800,275000,420000,Yes,No,Yes,2016
+12,KAH,Kahawai,2222599,2728000,617000,2293000,Yes,Yes,Yes,2016
+13,BCO,Blue cod,2105667,2331625,31000,556000,Yes,No,Yes,2016
+14,RBT,Redbait,1455535,5050000,0,0, , ,Yes,2016
+15,SPO,Rig,1406398,1966064,60000,128000,Yes,Yes,Yes,2016
+16,GSH,Ghost shark,1369422,3047000,0,2000,No,Yes,Yes,2016
+17,COC,Cockle,1186589,3214000,161000,221000,Yes,No,Yes,2016
+18,WWA,White warehou,1068992,3735000,6000,6000,No,Yes,Yes,2016
+19,BNS,Bluenose,960630,1110000,9000,63000,Yes,Yes,Yes,2016
+20,PAU,Black Paua & Yellowf...,912156,1058499,24000,43000,Yes,No,Yes,2016
+21,GMU,Grey mullet,827489,1005601,100000,100000,Yes,No,Yes,2016
+22,GSP,Pale ghost shark,690629,1780000,0,0,No,Yes,Yes,2016
+23,SKI,Gemfish,677371,1060394,6000,10000,Yes,Yes,Yes,2016
+24,MOK,Blue moki,586447,640906,1000,20000,Yes,No,Yes,2016
+25,LDO,Lookdown dory,507162,783000,0,0,Yes,Yes,Yes,2016
+26,SAE!,Triangle shell,392078,2542000,15000,1000, , ,Yes,2016
+27,PIL,Pilchard,324405,2485000,29000,58000,Yes,No,Yes,2016
+28,SFE,Short-finned freshwa...,232476,347000,77000,64000, , ,Yes,2016
+29,PDO!,Southern tuatua,199837,1024000,73000,68000, , ,Yes,2016
+30,BIG,Bigeye tuna,172759,714000,4000,8000,Yes,No,Yes,2016
+31,PAD,Paddle crab,127244,765000,31000,74000,Yes,No,Yes,2016
+32,GSC!,Giant spider crab,113183,419000,0,0, , ,Yes,2016
+33,TRU,Trumpeter,75864,144000,22000,39000,No,Yes,Yes,2016
+34,MMI!,Large trough shell,70677,814000,15000,1000, , ,Yes,2016
+35,POR,Porae,65864,83000,6000,9000,No,Yes,Yes,2016
+36,SCA!,Scallop,58850,522000,81500,81500,Yes,No,Yes,2016
+37,KBB,Bladder kelp,44159,1509600,200,200, , ,Yes,2016
+38,POS,Porbeagle shark,43270,110000,2000,6000,No,Yes,Yes,2016
+39,YEM,Yellow-eyed mullet,32290,68000,36000,52000,Yes,No,Yes,2016
+40,SCC!,Sea cucumber,22725,35000,16000,24000, , ,Yes,2016
+41,DAN!,Ringed dosinia,18562,489000,15000,1000, , ,Yes,2016
+42,QSC,Queen scallop,13550,380000,0,0,Yes,No,Yes,2016
+43,PTO,Patagonian toothfish,6380,49500,0,0, , ,Yes,2016
+44,OYS,Oysters dredge (exc...,5647,622500,13000,13000,Yes,Yes,Yes,2016
+45,PRK,Prawn killer,1778,36000,0,0, , ,Yes,2016
+46,HOR!,Horse mussel,369,29000,9000,9000, , ,Yes,2016
+47,KWH,Knobbed whelk,42,67000,10000,10000, , ,Yes,2016
+48,SPR,Sprats,3,450000,22000,43000,No,Yes,Yes,2016
+49,BYS,Alfonsino,,,,, , ,Yes,2016
+50,BAS,Bass,,,,, , ,Yes,2016
+51,BOE,Black oreo,,,,,No,No,Yes,2016
+52,BRI,Brill,,,,, , ,Yes,2016
+53,RSO,Gemfish,,,,, , ,Yes,2016
+54,GFL,Greenback flounder,,,,, , ,Yes,2016
+55,MSP,Green-lipped mussel ...,,,,, , ,Yes,2016
+56,ATT,Kahawai,,,,, , ,Yes,2016
+57,LSO,Lemon sole,,,,, , ,Yes,2016
+58,BYD,Longfinned beryx,,,,, , ,Yes,2016
+59,LMU,Murray's king crab,,,,, , ,Yes,2016
+60,NOG,NZ Northern arrow sq...,,,,, , ,Yes,2016
+61,NOS,NZ Southern arrow sq...,,,,, , ,Yes,2016
+62,REP,Rexea prometheoides,,,,, , ,Yes,2016
+63,SPA,Slender sprat,,,,, , ,Yes,2016
+64,SOR,Spiky oreo,,,,, , ,Yes,2016
+65,NMP,Tarakihi,,,,, , ,Yes,2016
+66,JMN,Trachurus novaezelan...,,,,, , ,Yes,2016
+67,TUR,Turbot,,,,, , ,Yes,2016
+68,YBF,Yellowbelly flounder,,,,, , ,Yes,2016
+69,SKJ,Skipjack tuna,4958883,,,,Yes,No,No,2016
+70,ULV,Sea lettuce,314000,,,, , ,No,2016
+71,NSD,Northern spiny dogfi...,32390,,,, , ,No,2016
+72,CRB,Crab (Unspecified),11433,,,, , ,No,2016
+73,CAU,Goldfish,2821,,,, , ,No,2016
+74,BMA,Blue maomao,2652,,,, , ,No,2016
+75,PTE,Agar weed,874,,,, , ,No,2016
+76,KBL,Bull kelp,159,,,, , ,No,2016
+77,GRP,Grass carp,32,,,, , ,No,2016
+78,UNF,Unidentifiable,1,,,, , ,No,2016
+79,ATO,Antarctic toothfish,,,,, , ,No,2016
+80,SME,Common smelt,,,,, , ,No,2016
+81,GLX,Galaxiid (adult),,,,, , ,No,2016
+82,HSI,Jack-knife prawn,,,,, , ,No,2016
+83,LES,Lessonia,,,,, , ,No,2016
+84,STM,Striped marlin,,,,,No,Yes,No,2016
+85,HOK,Hoki,141566542,150010000,20000,20000,Yes,Yes,Yes,2017
+86,BAR,Barracouta,28169633,33402461,2000,3000,Yes,Yes,Yes,2017
+87,SQU,Arrow squid,18462101,82120281,10000,10000,Yes,No,Yes,2017
+88,OYU,Oysters dredge (Fov...,9989921,14950000,,,Yes,No,Yes,2017
+89,EMA,Blue mackerel,8383695,11550000,24000,47000,Yes,Yes,Yes,2017
+90,ORH,Orange roughy,7619184,8736000,0,0,Yes,Yes,Yes,2017
+91,SNA,Snapper,6590843,6407300,127000,3702000,Yes,No,Yes,2017
+92,HAK,Hake,6144671,13211143,0,0,Yes,Yes,Yes,2017
+93,GUR,Gurnard,3853350,5631187,13000,28000,Yes,Yes,Yes,2017
+94,WAR,Common warehou,3448004,4512358,,,Yes,Yes,Yes,2017
+95,FLA,Flatfish,2852082,5418800,275000,420000,Yes,No,Yes,2017
+96,STA,Giant stargazer,2781414,5536400,2000,6000,Yes,Yes,Yes,2017
+97,RBT,Redbait,2600008,5050000,0,0, , ,Yes,2017
+98,FRO,Frostfish,1985395,4019000,4000,4000,No,Yes,Yes,2017
+99,KAH,Kahawai,1794368,2728000,617000,2293000,Yes,Yes,Yes,2017
+100,GSH,Ghost shark,1382356,3047000,0,2000,No,Yes,Yes,2017
+101,HPB,Hapuku & Bass,1308277,2181600,1000,195000,Yes,No,Yes,2017
+102,COC,Cockle,1205485,3214000,161000,221000,Yes,No,Yes,2017
+103,WWA,White warehou,1064858,3735000,6000,6000,No,Yes,Yes,2017
+104,SUR,Kina,1042476,1147000,403000,325000,Yes,Yes,Yes,2017
+105,GSP,Pale ghost shark,925783,1780000,0,0,No,Yes,Yes,2017
+106,GMU,Grey mullet,835162,1005601,100000,100000,Yes,No,Yes,2017
+107,PAU,Black Paua & Yellowf...,812125,964879,24000,43000,Yes,No,Yes,2017
+108,JDO,John dory,677859,1205400,2000,4000,Yes,Yes,Yes,2017
+109,MOK,Blue moki,555554,640906,1000,20000,Yes,No,Yes,2017
+110,LDO,Lookdown dory,499470,783000,0,0,Yes,Yes,Yes,2017
+111,LEA,Leatherjacket,341820,1461000,4000,10000,No,Yes,Yes,2017
+112,SAE!,Triangle shell,306533,2542000,15000,1000, , ,Yes,2017
+113,GSC!,Giant spider crab,241059,419000,0,0, , ,Yes,2017
+114,KIN,Kingfish,234624,217000,107000,578000,No,Yes,Yes,2017
+115,BWS,Blue shark,115704,1860000,10000,20000,No,Yes,Yes,2017
+116,BIG,Bigeye tuna,104916,714000,4000,8000,Yes,No,Yes,2017
+117,POR,Porae,90375,83000,6000,9000,No,Yes,Yes,2017
+118,PAD,Paddle crab,68628,765000,31000,74000,Yes,No,Yes,2017
+119,ANG,Freshwater eels,66931,,,, , ,Yes,2017
+120,TRU,Trumpeter,64612,144000,22000,39000,No,Yes,Yes,2017
+121,MOO,Moonfish,56582,527000,0,0,No,Yes,Yes,2017
+122,PHC!,Packhorse rock lobst...,43885,40300,,, , ,Yes,2017
+123,SCA!,Scallop,30956,522000,81500,81500,Yes,No,Yes,2017
+124,GAR,Garfish,26002,50000,25000,49000,Yes,No,Yes,2017
+125,QSC,Queen scallop,23130,380000,0,0,Yes,No,Yes,2017
+126,PTO,Patagonian toothfish,18630,49500,0,0, , ,Yes,2017
+127,DAN!,Ringed dosinia,12718,489000,15000,1000, , ,Yes,2017
+128,YFN,Yellowfin tuna,7553,263000,30000,60000,No,Yes,Yes,2017
+129,PRK,Prawn killer,3135,36000,0,0, , ,Yes,2017
+130,HOR!,Horse mussel,804,29000,9000,9000, , ,Yes,2017
+131,KWH,Knobbed whelk,211,67000,10000,10000, , ,Yes,2017
+132,CHC!,Red crab,35,48000,0,0, , ,Yes,2017
+133,MDI!,Trough shell,6,160000,0,0, , ,Yes,2017
+134,BYS,Alfonsino,,,,, , ,Yes,2017
+135,BAS,Bass,,,,, , ,Yes,2017
+136,BOE,Black oreo,,,,,No,No,Yes,2017
+137,BRI,Brill,,,,, , ,Yes,2017
+138,BYA!,Frilled venus shell,,16000,,, , ,Yes,2017
+139,GIZ,Giant Stargazer,,,,, , ,Yes,2017
+140,MSG,Green-lipped mussel,,,,, , ,Yes,2017
+141,ATT,Kahawai,,,,, , ,Yes,2017
+142,LSO,Lemon sole,,,,, , ,Yes,2017
+143,BYD,Longfinned beryx,,,,, , ,Yes,2017
+144,LMU,Murray's king crab,,,,, , ,Yes,2017
+145,NOG,NZ Northern arrow sq...,,,,, , ,Yes,2017
+146,NOS,NZ Southern arrow sq...,,,,, , ,Yes,2017
+147,REP,Rexea prometheoides,,,,, , ,Yes,2017
+148,SPA,Slender sprat,,,,, , ,Yes,2017
+149,SOR,Spiky oreo,,,,, , ,Yes,2017
+150,SPM,Stout sprat,,,,, , ,Yes,2017
+151,JMD,Trachurus declivis,,,,, , ,Yes,2017
+152,TUR,Turbot,,,,, , ,Yes,2017
+153,YBF,Yellowbelly flounder,,,,, , ,Yes,2017
+154,SKJ,Skipjack tuna,5437533,,,,Yes,No,No,2017
+155,ALB,Albacore tuna,2035422,,,,Yes,Yes,No,2017
+156,NSD,Northern spiny dogfi...,18826,,,, , ,No,2017
+157,PTE,Agar weed,6954,,,, , ,No,2017
+158,BMA,Blue maomao,6423,,,, , ,No,2017
+159,POY,Pacific oyster,4425,,,, , ,No,2017
+160,PRP,Porphyra,730,,,, , ,No,2017
+161,GRP,Grass carp,131,,,, , ,No,2017
+162,LES,Lessonia,120,,,, , ,No,2017
+163,EEL,Eels Marine (Unspec...,45,,,, , ,No,2017
+164,ATO,Antarctic toothfish,,,,, , ,No,2017
+165,SME,Common smelt,,,,, , ,No,2017
+166,ECK,Ecklonia,,,,, , ,No,2017
+167,GGA,Gigartina,,,,, , ,No,2017
+168,KOU,Koura,,,,, , ,No,2017
+169,STM,Striped marlin,,,,,No,Yes,No,2017
+170,HOK,Hoki,135418710,150010000,20000,20000,Yes,Yes,Yes,2018
+171,BAR,Barracouta,29071106,33402461,2000,3000,Yes,Yes,Yes,2018
+172,LIN,Ling,18694281,23192000,22000,42000,Yes,Yes,Yes,2018
+173,EMA,Blue mackerel,11399659,11550000,24000,47000,Yes,Yes,Yes,2018
+174,OEO,Oreo,8783204,14860000,0,0, , ,Yes,2018
+175,ORH,Orange roughy,8073415,8933000,5000,0,Yes,Yes,Yes,2018
+176,SNA,Snapper,6490740,6407300,127000,3702000,Yes,No,Yes,2018
+177,HAK,Hake,4703598,10575143,5000,0,Yes,Yes,Yes,2018
+178,TRE,Trevally,3758538,3933103,1000,100000,Yes,Yes,Yes,2018
+179,SCH,School shark,3013903,3436100,236000,202000,Yes,Yes,Yes,2018
+180,FRO,Frostfish,2693268,4019000,4000,4000,No,Yes,Yes,2018
+181,BYX,Alfonsino & Long-fin...,2530994,2995700,2000,2000,Yes,Yes,Yes,2018
+182,KAH,Kahawai,2138122,2728000,617000,2293000,Yes,Yes,Yes,2018
+183,FLA,Flatfish,2031567,5418800,275000,420000,Yes,No,Yes,2018
+184,RSK,Rough skate,1657079,1986000,4000,4000,No,Yes,Yes,2018
+185,SPO,Rig,1459220,1966064,60000,128000,Yes,Yes,Yes,2018
+186,GSH,Ghost shark,1362659,3047000,0,2000,No,Yes,Yes,2018
+187,HPB,Hapuku & Bass,1250263,2181600,1000,195000,Yes,No,Yes,2018
+188,WWA,White warehou,1133850,3735000,6000,6000,No,Yes,Yes,2018
+189,GSP,Pale ghost shark,1029004,1780000,0,0,No,Yes,Yes,2018
+190,STN,Southern bluefin tun...,1008136,971000,1000,8000,Yes,No,Yes,2018
+191,GMU,Grey mullet,820253,1005601,100000,100000,Yes,No,Yes,2018
+192,PAU,Black Paua & Yellowf...,704663,919064,39000,51500,Yes,No,Yes,2018
+193,BNS,Bluenose,656384,630000,9000,63000,Yes,Yes,Yes,2018
+194,MOK,Blue moki,619783,640906,1000,20000,Yes,No,Yes,2018
+195,SWO,Swordfish,475014,885000,10000,20000,No,Yes,Yes,2018
+196,CDL,Cardinal fish,401007,1968000,0,0,Yes,Yes,Yes,2018
+197,LEA,Leatherjacket,293609,1461000,4000,10000,No,Yes,Yes,2018
+198,PDO!,Southern tuatua,263250,1024000,73000,68000, , ,Yes,2018
+199,RBY,Rubyfish,198257,839000,2000,3000,Yes,Yes,Yes,2018
+200,GLM,Green-lipped mussel,151920,1720000,467000,310000,Yes,No,Yes,2018
+201,BWS,Blue shark,120492,1860000,10000,20000,No,Yes,Yes,2018
+202,LFE,Long-finned freshwat...,86438,163000,70680,39270, , ,Yes,2018
+203,MMI!,Large trough shell,65906,814000,15000,1000, , ,Yes,2018
+204,POS,Porbeagle shark,56943,110000,2000,6000,No,Yes,Yes,2018
+205,TRU,Trumpeter,52422,144000,22000,39000,No,Yes,Yes,2018
+206,KBB,Bladder kelp,44370,1509600,200,200, , ,Yes,2018
+207,SCA!,Scallop,39086,522000,81500,81500,Yes,No,Yes,2018
+208,SCC!,Sea cucumber,27312,90000,16000,24000, , ,Yes,2018
+209,QSC,Queen scallop,25735,380000,0,0,Yes,No,Yes,2018
+210,DAN!,Ringed dosinia,24360,489000,15000,1000, , ,Yes,2018
+211,TOR,Pacific bluefin tuna,20706,116000,500,25000,No,Yes,Yes,2018
+212,PZL,Deepwater clam,6715,31500,0,0, , ,Yes,2018
+213,MSP,Green-lipped mussel ...,4080,,,, , ,Yes,2018
+214,PRK,Prawn killer,1003,36000,0,0, , ,Yes,2018
+215,KWH,Knobbed whelk,177,67000,10000,10000, , ,Yes,2018
+216,HOR!,Horse mussel,57,29000,9000,9000, , ,Yes,2018
+217,MDI!,Trough shell,25,160000,0,0, , ,Yes,2018
+218,BYS,Alfonsino,,,,, , ,Yes,2018
+219,BAS,Bass,,,,, , ,Yes,2018
+220,BOE,Black oreo,,,,,No,No,Yes,2018
+221,BRI,Brill,,,,, , ,Yes,2018
+222,ANG,Freshwater eels,,,,, , ,Yes,2018
+223,RSO,Gemfish,,,,, , ,Yes,2018
+224,GFL,Greenback flounder,,,,, , ,Yes,2018
+225,HAP,Hapuku,,,,, , ,Yes,2018
+226,LSO,Lemon sole,,,,, , ,Yes,2018
+227,BYD,Longfinned beryx,,,,, , ,Yes,2018
+228,LMU,Murray's king crab,,,,, , ,Yes,2018
+229,NOG,NZ Northern arrow sq...,,,,, , ,Yes,2018
+230,NOS,NZ Southern arrow sq...,,,,, , ,Yes,2018
+231,PPI,Pipi,,204000,242000,242000, , ,Yes,2018
+232,SFL,Sand flounder,,,,, , ,Yes,2018
+233,SPA,Slender sprat,,,,, , ,Yes,2018
+234,SOR,Spiky oreo,,,,, , ,Yes,2018
+235,NMP,Tarakihi,,,,, , ,Yes,2018
+236,JMN,Trachurus novaezelan...,,,,, , ,Yes,2018
+237,TUR,Turbot,,,,, , ,Yes,2018
+238,YBF,Yellowbelly flounder,,,,, , ,Yes,2018
+239,SKJ,Skipjack tuna,3818613,,,,Yes,No,No,2018
+240,ULV,Sea lettuce,120000,,,, , ,No,2018
+241,NSD,Northern spiny dogfi...,21155,,,, , ,No,2018
+242,PTE,Agar weed,12415,,,, , ,No,2018
+243,SAM,Quinnat salmon,4149,,,, , ,No,2018
+244,CRB,Crab (Unspecified),3467,,,, , ,No,2018
+245,EEL,Eels Marine (Unspec...,552,,,, , ,No,2018
+246,UNF,Unidentifiable,1,,,, , ,No,2018
+247,ATO,Antarctic toothfish,,,,, , ,No,2018
+248,SME,Common smelt,,,,, , ,No,2018
+249,ECK,Ecklonia,,,,, , ,No,2018
+250,GGA,Gigartina,,,,, , ,No,2018
+251,HSI,Jack-knife prawn,,,,, , ,No,2018
+252,LES,Lessonia,,,,, , ,No,2018
+253,PRP,Porphyra,,,,, , ,No,2018
+254,STM,Striped marlin,,,,,No,Yes,No,2018
+255,HOK,Hoki,122459787,150010000,20000,20000,Yes,Yes,Yes,2019
+256,JMA,Jack mackerel,40734708,51327214,20000,20000,Yes,Yes,Yes,2019
+257,BAR,Barracouta,18418902,33402461,2000,3000,Yes,Yes,Yes,2019
+258,EMA,Blue mackerel,10299552,11550000,24000,47000,Yes,Yes,Yes,2019
+259,OEO,Oreo,8949518,15460000,0,0, , ,Yes,2019
+260,ORH,Orange roughy,8018878,9827000,5000,0,Yes,Yes,Yes,2019
+261,SPD,Spiny dogfish,5342367,12660000,245000,245000,Yes,Yes,Yes,2019
+262,GUR,Gurnard,4028959,5861187,18000,31000,Yes,Yes,Yes,2019
+263,WAR,Common warehou,2928676,4512358,,,Yes,Yes,Yes,2019
+264,FRO,Frostfish,2869077,4019000,4000,4000,No,Yes,Yes,2019
+265,SCH,School shark,2733639,3436100,236000,202000,Yes,Yes,Yes,2019
+266,RBT,Redbait,2673606,5050000,0,0, , ,Yes,2019
+267,BYX,Alfonsino & Long-fin...,2342220,2995700,2000,2000,Yes,Yes,Yes,2019
+268,KAH,Kahawai,2042175,2728000,617000,2293000,Yes,Yes,Yes,2019
+269,BCO,Blue cod,1843820,2331625,31000,556000,Yes,No,Yes,2019
+270,GSH,Ghost shark,1406135,3047000,0,2000,No,Yes,Yes,2019
+271,ELE,Elephant fish,1353841,1463500,10000,20000,No,Yes,Yes,2019
+272,COC,Cockle,1194962,3214000,161000,221000,Yes,No,Yes,2019
+273,SCI,Scampi,1073939,1312000,0,0,Yes,No,Yes,2019
+274,RIB,Ribaldo,1021450,1683000,0,0,No,Yes,Yes,2019
+275,SUR,Kina,891512,1147000,403000,325000,Yes,Yes,Yes,2019
+276,GSP,Pale ghost shark,840551,1780000,0,0,No,Yes,Yes,2019
+277,CDL,Cardinal fish,696245,1968000,0,0,Yes,Yes,Yes,2019
+278,BNS,Bluenose,671313,630000,9000,63000,Yes,Yes,Yes,2019
+279,MOK,Blue moki,543325,640906,1000,20000,Yes,No,Yes,2019
+280,SFE,Short-finned freshwa...,348260,589120,139030,72440, , ,Yes,2019
+281,LEA,Leatherjacket,320462,1461000,4000,10000,No,Yes,Yes,2019
+282,PDO!,Southern tuatua,315862,1024000,73000,68000, , ,Yes,2019
+283,SWO,Swordfish,262437,885000,10000,20000,No,Yes,Yes,2019
+284,GSC!,Giant spider crab,166858,419000,0,0, , ,Yes,2019
+285,GLM,Green-lipped mussel,139591,1675000,467000,310000,Yes,No,Yes,2019
+286,BWS,Blue shark,100625,1860000,10000,20000,No,Yes,Yes,2019
+287,PAR,Parore,81920,84000,5000,9000,No,Yes,Yes,2019
+288,LFE,Long-finned freshwat...,66217,137000,70680,39270, , ,Yes,2019
+289,POR,Porae,54594,83000,6000,9000,No,Yes,Yes,2019
+290,SCC!,Sea cucumber,51766,100000,16000,24000, , ,Yes,2019
+291,PHC!,Packhorse rock lobst...,37965,40300,,, , ,Yes,2019
+292,POS,Porbeagle shark,36709,110000,2000,6000,No,Yes,Yes,2019
+293,DAN!,Ringed dosinia,30229,489000,15000,1000, , ,Yes,2019
+294,MAK,Mako shark,27000,200000,10000,30000,No,Yes,Yes,2019
+295,TOR,Pacific bluefin tuna,21629,116000,500,25000,No,Yes,Yes,2019
+296,QSC,Queen scallop,12168,380000,0,0,Yes,No,Yes,2019
+297,YFN,Yellowfin tuna,4919,263000,30000,60000,No,Yes,Yes,2019
+298,KIC!,King crab,1154,90000,0,0, , ,Yes,2019
+299,KWH,Knobbed whelk,377,67000,10000,10000, , ,Yes,2019
+300,CHC!,Red crab,20,48000,0,0, , ,Yes,2019
+301,DSU!,Silky dosinia,3,8000,,, , ,Yes,2019
+302,MDI!,Trough shell,2,160000,0,0, , ,Yes,2019
+303,BYA!,Frilled venus shell,0,16000,,, , ,Yes,2019
+304,BGZ,Banded stargazer,,,,, , ,Yes,2019
+305,BFL,Black flounder,,,,, , ,Yes,2019
+306,PAI,Blackfoot paua,,,,, , ,Yes,2019
+307,NEB,Brodie's king crab,,,,, , ,Yes,2019
+308,RSO,Gemfish,,,,, , ,Yes,2019
+309,GFL,Greenback flounder,,,,, , ,Yes,2019
+310,MSP,Green-lipped mussel ...,,,,, , ,Yes,2019
+311,ATT,Kahawai,,,,, , ,Yes,2019
+312,LSO,Lemon sole,,,,, , ,Yes,2019
+313,BYD,Longfinned beryx,,,,, , ,Yes,2019
+314,LMU,Murray's king crab,,,,, , ,Yes,2019
+315,NOG,NZ Northern arrow sq...,,,,, , ,Yes,2019
+316,NOS,NZ Southern arrow sq...,,,,, , ,Yes,2019
+317,PPI,Pipi,,204000,242000,242000, , ,Yes,2019
+318,SFL,Sand flounder,,,,, , ,Yes,2019
+319,SSO,Smooth oreo,,,,,No,No,Yes,2019
+320,SPM,Stout sprat,,,,, , ,Yes,2019
+321,JMD,Trachurus declivis,,,,, , ,Yes,2019
+322,TUR,Turbot,,,,, , ,Yes,2019
+323,YBF,Yellowbelly flounder,,,,, , ,Yes,2019
+324,SKJ,Skipjack tuna,5519461,,,,Yes,No,No,2019
+325,OCT,Octopus,88972,,,, , ,No,2019
+326,CAT,Brown bullhead catfi...,13864,,,, , ,No,2019
+327,CRB,Crab (Unspecified),4797,,,, , ,No,2019
+328,CAU,Goldfish,2107,,,, , ,No,2019
+329,SAM,Quinnat salmon,522,,,, , ,No,2019
+330,EEL,Eels Marine (Unspec...,120,,,, , ,No,2019
+331,ULV,Sea lettuce,5,,,, , ,No,2019
+332,GRP,Grass carp,1,,,, , ,No,2019
+333,LES,Lessonia,0,,,, , ,No,2019
+334,BEM,Blue marlin,,,,, , ,No,2019
+335,CGR,Convict groper,,,,, , ,No,2019
+336,GGA,Gigartina,,,,, , ,No,2019
+337,KOU,Koura,,,,, , ,No,2019
+338,PRP,Porphyra,,,,, , ,No,2019
+339,STM,Striped marlin,,,,,No,Yes,No,2019
+340,HOK,Hoki,107736530,115010000,20000,20000,Yes,Yes,Yes,2020
+341,SQU,Arrow squid,42031616,82120281,10000,10000,Yes,No,Yes,2020
+342,LIN,Ling,16456140,24279000,23000,42000,Yes,Yes,Yes,2020
+343,EMA,Blue mackerel,9597267,11550000,24000,47000,Yes,Yes,Yes,2020
+344,OYU,Oysters dredge (Fov...,8310096,14950000,,,Yes,No,Yes,2020
+345,OEO,Oreo,7732761,15460000,0,0, , ,Yes,2020
+346,SPD,Spiny dogfish,4664808,12660000,245000,245000,Yes,Yes,Yes,2020
+347,TAR,Tarakihi,4392295,5059200,193000,221000,Yes,Yes,Yes,2020
+348,TRE,Trevally,3122045,3933103,1000,100000,Yes,Yes,Yes,2020
+349,STA,Giant stargazer,2737761,5536400,2000,6000,Yes,Yes,Yes,2020
+350,CRA!,Spiny red rock lobst...,2498859,2800486,195500,332000,Yes,No,Yes,2020
+351,BYX,Alfonsino & Long-fin...,2392462,2995700,2000,2000,Yes,Yes,Yes,2020
+352,SKI,Gemfish,2120104,1658000,8000,10000,Yes,Yes,Yes,2020
+353,FLA,Flatfish,1911388,5121500,55000,177000,Yes,No,Yes,2020
+354,KAH,Kahawai,1636479,2728000,617000,2293000,Yes,Yes,Yes,2020
+355,ELE,Elephant fish,1359310,1463700,15000,30000,No,Yes,Yes,2020
+356,HPB,Hapuku & Bass,1105017,2181600,1000,195000,Yes,No,Yes,2020
+357,GSH,Ghost shark,1039357,3047000,0,2000,No,Yes,Yes,2020
+358,SCI,Scampi,974460,1312000,0,0,Yes,No,Yes,2020
+359,RIB,Ribaldo,920555,1683000,0,0,No,Yes,Yes,2020
+360,GMU,Grey mullet,820960,1005601,100000,100000,Yes,No,Yes,2020
+361,GSP,Pale ghost shark,680969,1780000,0,0,No,Yes,Yes,2020
+362,WWA,White warehou,642839,3735000,6000,6000,No,Yes,Yes,2020
+363,RBY,Rubyfish,572731,839000,2000,3000,Yes,Yes,Yes,2020
+364,MOK,Blue moki,552826,640906,1000,20000,Yes,No,Yes,2020
+365,LDO,Lookdown dory,398947,783000,0,0,Yes,Yes,Yes,2020
+366,LEA,Leatherjacket,268832,1461000,4000,10000,No,Yes,Yes,2020
+367,PIL,Pilchard,261700,2485000,29000,58000,Yes,No,Yes,2020
+368,GSC!,Giant spider crab,245611,419000,0,0, , ,Yes,2020
+369,RBM,Ray's bream,218833,980000,5000,10000,No,Yes,Yes,2020
+370,BWS,Blue shark,110948,1860000,10000,20000,No,Yes,Yes,2020
+371,GLM,Green-lipped mussel,93734,1675000,467000,310000,Yes,No,Yes,2020
+372,PAR,Parore,78027,84000,5000,9000,No,Yes,Yes,2020
+373,TRU,Trumpeter,66741,144000,22000,39000,No,Yes,Yes,2020
+374,RSN,Red snapper,60527,146000,4000,16000,No,Yes,Yes,2020
+375,POR,Porae,54415,83000,6000,9000,No,Yes,Yes,2020
+376,MOO,Moonfish,47407,527000,0,0,No,Yes,Yes,2020
+377,PHC!,Packhorse rock lobst...,37004,40300,,, , ,Yes,2020
+378,YEM,Yellow-eyed mullet,29493,68000,36000,52000,Yes,No,Yes,2020
+379,GAR,Garfish,22543,50000,25000,49000,Yes,No,Yes,2020
+380,QSC,Queen scallop,16605,380000,0,0,Yes,No,Yes,2020
+381,PAD,Paddle crab,12982,765000,31000,74000,Yes,No,Yes,2020
+382,YFN,Yellowfin tuna,9700,263000,30000,60000,No,Yes,Yes,2020
+383,KIC!,King crab,1790,90000,0,0, , ,Yes,2020
+384,HOR!,Horse mussel,500,29000,9000,9000, , ,Yes,2020
+385,PRK,Prawn killer,11,36000,0,0, , ,Yes,2020
+386,TUA,Tuatua,1,43000,137000,137000, , ,Yes,2020
+387,BGZ,Banded stargazer,,,,, , ,Yes,2020
+388,BFL,Black flounder,,,,, , ,Yes,2020
+389,PAI,Blackfoot paua,,,,, , ,Yes,2020
+390,NEB,Brodie's king crab,,,,, , ,Yes,2020
+391,BYA!,Frilled venus shell,,16000,,, , ,Yes,2020
+392,GIZ,Giant Stargazer,,,,, , ,Yes,2020
+393,MSG,Green-lipped mussel,,,,, , ,Yes,2020
+394,HAP,Hapuku,,,,, , ,Yes,2020
+395,KTA,King tarakihi,,,,, , ,Yes,2020
+396,LFG,Long finned gemfish,,,,, , ,Yes,2020
+397,JMM,Murphy's mackerel,,,,, , ,Yes,2020
+398,NKA,Northern kahawai,,,,, , ,Yes,2020
+399,ESO,NZ sole,,,,, , ,Yes,2020
+400,OYS,Oysters dredge (exc...,,622500,13000,13000,Yes,Yes,Yes,2020
+401,REP,Rexea prometheoides,,,,, , ,Yes,2020
+402,DSU!,Silky dosinia,,8000,,, , ,Yes,2020
+403,SSO,Smooth oreo,,,,,No,No,Yes,2020
+404,SPR,Sprats,,450000,22000,43000,No,Yes,Yes,2020
+405,NMP,Tarakihi,,,,, , ,Yes,2020
+406,JMN,Trachurus novaezelan...,,,,, , ,Yes,2020
+407,TUR,Turbot,,,,, , ,Yes,2020
+408,YBF,Yellowbelly flounder,,,,, , ,Yes,2020
+409,SKJ,Skipjack tuna,5179126,,,,Yes,No,No,2020
+410,OCT,Octopus,79715,,,, , ,No,2020
+411,ECK,Ecklonia,17569,,,, , ,No,2020
+412,KOI,Koi carp,6935,,,, , ,No,2020
+413,CAU,Goldfish,2324,,,, , ,No,2020
+414,SAM,Quinnat salmon,137,,,, , ,No,2020
+415,EEL,Eels Marine (Unspec...,23,,,, , ,No,2020
+416,UNF,Unidentifiable,1,,,, , ,No,2020
+417,BEM,Blue marlin,,,,, , ,No,2020
+418,SME,Common smelt,,,,, , ,No,2020
+419,GLX,Galaxiid (adult),,,,, , ,No,2020
+420,GRA,Gracilaria weed,,,,, , ,No,2020
+421,HSI,Jack-knife prawn,,,,, , ,No,2020
+422,LES,Lessonia,,,,, , ,No,2020
+423,PRP,Porphyra,,,,, , ,No,2020
+424,SOS,Sockeye salmon,,,,, , ,No,2020
+425,HOK,Hoki,29523241,115010000,20000,20000,Yes,Yes,Yes,2021
+426,SQU,Arrow squid,18836859,82120281,10000,10000,Yes,No,Yes,2021
+427,LIN,Ling,8459815,24279000,23000,42000,Yes,Yes,Yes,2021
+428,EMA,Blue mackerel,6466966,11550000,24000,47000,Yes,Yes,Yes,2021
+429,OYU,Oysters dredge (Fov...,4172002,14950000,,,Yes,No,Yes,2021
+430,SPD,Spiny dogfish,3591374,12660000,245000,245000,Yes,Yes,Yes,2021
+431,GUR,Gurnard,3009781,6246187,18000,44000,Yes,Yes,Yes,2021
+432,TRE,Trevally,2253876,3933103,1000,100000,Yes,Yes,Yes,2021
+433,SCH,School shark,1856442,3436100,236000,202000,Yes,Yes,Yes,2021
+434,CRA!,Spiny red rock lobst...,1834446,2733786,195500,279000,Yes,No,Yes,2021
+435,BYX,Alfonsino & Long-fin...,1657125,2995700,2000,2000,Yes,Yes,Yes,2021
+436,KAH,Kahawai,1487581,2728000,617000,2293000,Yes,Yes,Yes,2021
+437,FLA,Flatfish,1153583,5121500,55000,177000,Yes,No,Yes,2021
+438,ELE,Elephant fish,1017080,1463700,15000,30000,No,Yes,Yes,2021
+439,RSK,Rough skate,806116,1986000,4000,4000,No,Yes,Yes,2021
+440,GSH,Ghost shark,756951,3047000,0,2000,No,Yes,Yes,2021
+441,HPB,Hapuku & Bass,659443,2181600,1000,195000,Yes,No,Yes,2021
+442,COC,Cockle,636012,3214000,161000,221000,Yes,No,Yes,2021
+443,SUR,Kina,550324,1147000,403000,325000,Yes,Yes,Yes,2021
+444,CDL,Cardinal fish,523854,1979000,0,0,Yes,Yes,Yes,2021
+445,WWA,White warehou,514558,3736000,6000,6000,No,Yes,Yes,2021
+446,PAU,Black Paua & Yellowf...,414014,919064,42000,54500,Yes,No,Yes,2021
+447,SSK,Smooth skate,349931,849000,4000,4000,No,Yes,Yes,2021
+448,RBM,Ray's bream,324161,980000,5000,10000,No,Yes,Yes,2021
+449,PIL,Pilchard,282775,2485000,29000,58000,Yes,No,Yes,2021
+450,LDO,Lookdown dory,221686,783000,0,0,Yes,Yes,Yes,2021
+451,GSC!,Giant spider crab,198140,513000,0,0, , ,Yes,2021
+452,LEA,Leatherjacket,169653,1471000,4000,10000,No,Yes,Yes,2021
+453,SWO,Swordfish,168337,885000,10000,20000,No,Yes,Yes,2021
+454,PDO!,Southern tuatua,117388,1024000,73000,68000, , ,Yes,2021
+455,TRU,Trumpeter,70225,147000,23000,40000,No,Yes,Yes,2021
+456,LFE,Long-finned freshwat...,58460,137000,70680,39270, , ,Yes,2021
+457,GLM,Green-lipped mussel,46833,1675000,467000,310000,Yes,No,Yes,2021
+458,MMI!,Large trough shell,43881,814000,15000,1000, , ,Yes,2021
+459,POR,Porae,34662,89000,6000,9000,No,Yes,Yes,2021
+460,PAR,Parore,32222,84000,5000,9000,No,Yes,Yes,2021
+461,SCC!,Sea cucumber,28244,100000,16000,24000, , ,Yes,2021
+462,YFN,Yellowfin tuna,21888,263000,30000,60000,No,Yes,Yes,2021
+463,MOO,Moonfish,19842,527000,0,0,No,Yes,Yes,2021
+464,MAK,Mako shark,14206,200000,10000,30000,No,Yes,Yes,2021
+465,YEM,Yellow-eyed mullet,9055,69000,36000,52000,Yes,No,Yes,2021
+466,GAR,Garfish,4904,50000,25000,49000,Yes,No,Yes,2021
+467,SCA!,Scallop,3098,492000,81500,81500,Yes,No,Yes,2021
+468,KWH,Knobbed whelk,1165,67000,10000,10000, , ,Yes,2021
+469,PRK,Prawn killer,35,36000,0,0, , ,Yes,2021
+470,HOR!,Horse mussel,1,29000,9000,9000, , ,Yes,2021
+471,BYS,Alfonsino,,,,, , ,Yes,2021
+472,BAS,Bass,,,,, , ,Yes,2021
+473,BOE,Black oreo,,,,,No,No,Yes,2021
+474,BRI,Brill,,,,, , ,Yes,2021
+475,ANG,Freshwater eels,,,,, , ,Yes,2021
+476,RSO,Gemfish,,,,, , ,Yes,2021
+477,GFL,Greenback flounder,,,,, , ,Yes,2021
+478,MSP,Green-lipped mussel ...,,,,, , ,Yes,2021
+479,ATT,Kahawai,,,,, , ,Yes,2021
+480,LSO,Lemon sole,,,,, , ,Yes,2021
+481,BYD,Longfinned beryx,,,,, , ,Yes,2021
+482,LMU,Murray's king crab,,,,, , ,Yes,2021
+483,NOG,NZ Northern arrow sq...,,,,, , ,Yes,2021
+484,NOS,NZ Southern arrow sq...,,,,, , ,Yes,2021
+485,PTO,Patagonian toothfish,,49500,0,0, , ,Yes,2021
+486,REP,Rexea prometheoides,,,,, , ,Yes,2021
+487,DSU!,Silky dosinia,,8000,,, , ,Yes,2021
+488,SSO,Smooth oreo,,,,,No,No,Yes,2021
+489,SPM,Stout sprat,,,,, , ,Yes,2021
+490,JMD,Trachurus declivis,,,,, , ,Yes,2021
+491,MDI!,Trough shell,,160000,0,0, , ,Yes,2021
+492,TUR,Turbot,,,,, , ,Yes,2021
+493,YBF,Yellowbelly flounder,,,,, , ,Yes,2021
+494,SKJ,Skipjack tuna,4316511,,,,Yes,No,No,2021
+495,OCT,Octopus,41801,,,, , ,No,2021
+496,CAT,Brown bullhead catfi...,7103,,,, , ,No,2021
+497,KOI,Koi carp,5169,,,, , ,No,2021
+498,CAU,Goldfish,930,,,, , ,No,2021
+499,CRB,Crab (Unspecified),274,,,, , ,No,2021
+500,EEL,Eels Marine (Unspec...,159,,,, , ,No,2021
+501,LES,Lessonia,46,,,, , ,No,2021
+502,ATO,Antarctic toothfish,,,,, , ,No,2021
+503,SME,Common smelt,,,,, , ,No,2021
+504,GLX,Galaxiid (adult),,,,, , ,No,2021
+505,GRA,Gracilaria weed,,,,, , ,No,2021
+506,HSI,Jack-knife prawn,,,,, , ,No,2021
+507,POY,Pacific oyster,,,,, , ,No,2021
+508,ULV,Sea lettuce,,,,, , ,No,2021
+509,STM,Striped marlin,,,,,No,Yes,No,2021
