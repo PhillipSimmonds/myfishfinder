@@ -30,4 +30,4 @@ def run_fisheries_collector():
             data.append([d.text.replace("\n","").replace(",","") for d in row.select("td")] + [i])
     df = pd.DataFrame(data=data,columns=columns)
     # Save ouput
-    df.to_csv("scraper/data/raw/fisheries/species/{}-{}-{}.csv".format(dt.datetime.now().year,dt.datetime.now().month,dt.datetime.now().day))
+    df.to_csv("data/raw/fisheries/species/{}-{}-{}.csv".format(dt.datetime.now().year,dt.datetime.now().month,dt.datetime.now().day))
