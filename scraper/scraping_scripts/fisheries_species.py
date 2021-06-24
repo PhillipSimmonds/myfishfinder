@@ -31,4 +31,7 @@ def run_fisheries_collector():
             data.append([d.text.replace("\n","").replace(",","") for d in row.select("td")] + [i])
     df = pd.DataFrame(data=data,columns=columns)
     # Save ouput
-    df.to_csv("{}/myfishfinder/data/raw/fisheries/species/{}-{}-{}.csv".format(os.path.dirname(os.getcwd()),dt.datetime.now().year,dt.datetime.now().month,dt.datetime.now().day))
+    d_ = "{}/myfishfinder/data/raw/fisheries/species".format(os.path.dirname(os.getcwd()))
+    if not os.path.exists(d_):
+        os.makedirs(d_)
+    df.to_csv("{}/{}-{}-{}.csv".format(d_,dt.datetime.now().year,dt.datetime.now().month,dt.datetime.now().day))
